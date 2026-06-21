@@ -90,7 +90,7 @@ git clone https://github.com/Siven26-coding/code-generated-music.git
 
 Move into the project folder:
 ```bash
-cd trap-beat-machine-js
+cd code-generated-music
 ```
 
 Run it:
